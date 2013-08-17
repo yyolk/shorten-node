@@ -2,7 +2,7 @@ exports.shorten_settings = {
 	dev_domain: 'localhost:8888', // Your development domain
 	live_domain: 'y.yolk.cc', // Live domain
 	dev_mongodb_uri: 'mongodb://localhost/yyolkcc',
-	live_mongodb_uri: 'mongodb://localhost/yyolkcc'
+	live_mongodb_uri: process.env.MONGOHQ_URL
 };
 
 
