@@ -1,8 +1,8 @@
 exports.shorten_settings = {
 	dev_domain: 'localhost:8888', // Your development domain
-	live_domain: 'kish.cm', // Live domain
-	dev_mongodb_uri: 'mongodb://localhost/kishcm',
-	live_mongodb_uri: 'mongodb://localhost/kishcm'
+	live_domain: 'y.yolk.cc', // Live domain
+	dev_mongodb_uri: 'mongodb://localhost/yyolkcc',
+	live_mongodb_uri: 'mongodb://localhost/yyolkcc'
 };
 
 
